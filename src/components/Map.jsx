@@ -64,6 +64,7 @@ function Map() {
   );
 }
 
+// eslint-disable-next-line react/prop-types
 function ChangeCenter({ position }) {
   const map = useMap();
   map.setView(position);

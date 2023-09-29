@@ -35,6 +35,102 @@
         "lng": 13.376933665713324
       },
       "id": 456465115
+    },
+    {
+      "cityName": "Epila",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-28T23:44:47.095Z",
+      "notes": "Test",
+      "position": {
+        "lat": "41.64007838467894",
+        "lng": "-1.40625"
+      },
+      "id": 456465116
+    },
+    {
+      "cityName": "Daimiel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-28T23:47:02.564Z",
+      "notes": "",
+      "position": {
+        "lat": "39.11301365149975",
+        "lng": "-3.5595703125"
+      },
+      "id": 456465117
+    },
+    {
+      "cityName": "Vierzon",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-28T23:49:36.575Z",
+      "notes": "Test",
+      "position": {
+        "lat": "47.2195681123155",
+        "lng": "2.0654296875000004"
+      },
+      "id": 456465118
+    },
+    {
+      "cityName": "Valderas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-28T23:50:09.061Z",
+      "notes": "",
+      "position": {
+        "lat": "42.081916678306335",
+        "lng": "-5.427246093750001"
+      },
+      "id": 456465119
+    },
+    {
+      "cityName": "Penamacor",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-28T23:53:39.370Z",
+      "notes": "",
+      "position": {
+        "lat": "40.16208338164619",
+        "lng": "-7.229003906250001"
+      },
+      "id": 456465120
+    },
+    {
+      "cityName": "Azuaga",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-29T00:00:58.155Z",
+      "notes": "",
+      "position": {
+        "lat": "38.37611542403604",
+        "lng": "-5.756835937500001"
+      },
+      "id": 456465121
+    },
+    {
+      "cityName": "Navalonguilla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-29T22:01:13.135Z",
+      "notes": "",
+      "position": {
+        "lat": "40.22921818870117",
+        "lng": "-5.537109375000001"
+      },
+      "id": 456465122
+    },
+    {
+      "cityName": "Longuenee-en-Anjou",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-29T22:01:29.760Z",
+      "notes": "",
+      "position": {
+        "lat": "47.56170075451973",
+        "lng": "-0.703125"
+      },
+      "id": 456465123
     }
   ]
 }
